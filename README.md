@@ -23,6 +23,11 @@ Here are some ideas to get you started:
   <br>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/33127919/126886051-18664884-2aac-49c5-922d-b398b7291991.png" style="max-width: 100%;" alt="Welcome Banner" />
+  <br>
+</div>
+
 <h3 align="left">
   <a href="https://gist.github.com/felixgren">𝙼𝚢 𝚐𝚒𝚜𝚝𝚜
     <img src="https://user-images.githubusercontent.com/33127919/126884765-38fc0b41-fcb6-421b-ad2c-981943560e7b.gif" alt="Spinning bear icon" align="top" height="30">
