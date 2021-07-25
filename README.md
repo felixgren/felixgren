@@ -23,8 +23,11 @@ Here are some ideas to get you started:
     <img src="https://user-images.githubusercontent.com/33127919/126884765-38fc0b41-fcb6-421b-ad2c-981943560e7b.gif" alt="Spinning bear icon" align="top" height="30">
   </a>
   <br>
-  <br>
 </h3>
+
+<div align="center" width="100%">
+  <img src="https://user-images.githubusercontent.com/33127919/126887303-97a43939-8c9e-4b91-a8d9-4234903e203f.gif" width="100%" alt="My Sneaky Cat" />
+<div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/33127919/126884769-3dfb3ab6-3e44-480e-8e2c-b22b6f99b152.gif" alt="Notepad Icon" height="30" />
