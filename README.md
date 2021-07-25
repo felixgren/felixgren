@@ -14,17 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/33127919/126885452-97b433b8-7303-482a-aa27-0c82d6970b21.png" style="max-width: 100%;" alt="Welcome Banner" />
-  <br>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/33127919/126885451-f2ff7017-7ff7-421a-8705-3c4255beb69b.png" style="max-width: 100%;" alt="Welcome Banner" />
-  <br>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/33127919/126886051-18664884-2aac-49c5-922d-b398b7291991.png" style="max-width: 100%;" alt="Welcome Banner" />
+  <img src="https://user-images.githubusercontent.com/33127919/126886440-5bf0dc6c-e435-4c8d-90aa-d225cd810f65.png" style="max-width: 100%;" alt="Welcome Banner" />
   <br>
 </div>
 
