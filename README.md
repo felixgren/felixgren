@@ -20,11 +20,15 @@ Here are some ideas to get you started:
 
 <h3 align="left">
   <a href="https://gist.github.com/felixgren">𝙼𝚢 𝚐𝚒𝚜𝚝𝚜
-    <img src="https://user-images.githubusercontent.com/33127919/126884765-38fc0b41-fcb6-421b-ad2c-981943560e7b.gif" alt="Spinning bear icon" align="top" height="30">
+  </a>
+    <a href="https://gist.github.com/felixgren">
+          <img src="https://user-images.githubusercontent.com/33127919/126884765-38fc0b41-fcb6-421b-ad2c-981943560e7b.gif" alt="Spinning bear icon" align="top" height="30">
   </a>
   <br>
     <a href="mailto:hello@felixgren.com">𝚑𝚎𝚕𝚕𝚘@𝚏𝚎𝚕𝚒𝚡𝚐𝚛𝚎𝚗.𝚌𝚘𝚖
-    <img src="https://user-images.githubusercontent.com/33127919/127537819-5b258c90-c1e6-4d22-aa6b-dd0c06e65b1b.gif" alt="E-mail icon" align="top" height="30">
+  </a>
+  <a href="mailto:hello@felixgren.com">
+        <img src="https://user-images.githubusercontent.com/33127919/127537819-5b258c90-c1e6-4d22-aa6b-dd0c06e65b1b.gif" alt="E-mail icon" align="top" height="30">
   </a>
   <br>
 </h3>
